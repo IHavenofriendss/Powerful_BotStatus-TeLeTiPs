@@ -1,1 +1,1 @@
-worker: python3 botstatus_teletips.py
+web: python3 botstatus_teletips.py
